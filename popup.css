@@ -1,0 +1,37 @@
+body {
+    width: 200px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    background-color: #39027d; 
+    color: white;  
+    display: flex; /* Flex container for centering content vertically */
+    align-items: center; /* Center vertically */
+    height: 200px; /* Use the full viewport height */
+}
+
+.content {
+    text-align: center; /* Center content */
+    width: 100%; /* Take the full width of the container */
+}
+
+.icon {
+    width: 128px; /* Adjust as needed */
+    height: 128px; /* Adjust as needed */
+    display: block; /* Display as block to center it */
+    margin: 0 auto; /* Margin auto for horizontal centering */
+	margin-bottom: 10px
+}
+
+.author-info {
+	font-weight: bold; /* Make text bold */
+    font-size: 16px; /* Set font size to 28px */
+    animation: shaking 2s infinite; /* Apply the shaking animation */
+}
+
+@keyframes shaking {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(5px); }
+}
