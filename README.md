@@ -9,7 +9,7 @@
 - **Ease of Use**: Works seamlessly on the Chat GPT interface without any need for manual setup.
 
 ## Installation
-[Instructions on how to install the extension, e.g., downloading the extension from a web store or loading it into the browser manually if it's not hosted on a web store]
+Donwload the whole project in one zipfile. After downloading project, unzip it in constant location and then after enabling develpoer mode in google chrome give path of the extension and enjoy!
 
 ## Usage
 Once installed, the extension automatically applies the RTL and text justification features on the Chat GPT interface at chat.openai.com. No additional configuration is required.
@@ -21,7 +21,7 @@ Contributions are welcome! If you have ideas for new features, bug fixes, or imp
 For any queries or suggestions, please reach out to me at Musavii.ab@gmail.com.
 
 ## Acknowledgments
-A special thanks to [anyone you'd like to acknowledge, if applicable].
+A special thanks to Hassan Ghambari to propose the idea of this extension.
 
 ---
 
