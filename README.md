@@ -1,4 +1,4 @@
-# Chat GPT - RTL Checker
+# Chat GPT - RTL Checker for Google Chrome
 
 ## Introduction
 "Chat GPT - RTL Checker" is a browser extension designed to enhance the user experience on the Chat GPT platform for Persian users. It automatically adjusts Right-to-Left (RTL) text direction for Persian texts and justifies all texts, providing a more readable and organized layout.
