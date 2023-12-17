@@ -17,9 +17,6 @@ Once installed, the extension automatically applies the RTL and text justificati
 ## Contributing
 Contributions are welcome! If you have ideas for new features, bug fixes, or improvements, please feel free to fork the repository and submit a pull request.
 
-## License
-[Specify your license here]
-
 ## Contact
 For any queries or suggestions, please reach out to me at Musavii.ab@gmail.com.
 
