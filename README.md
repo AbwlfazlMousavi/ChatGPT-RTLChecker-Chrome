@@ -9,7 +9,11 @@
 - **Ease of Use**: Works seamlessly on the Chat GPT interface without any need for manual setup.
 
 ## Installation
-Donwload the whole project in one zipfile. After downloading project, unzip it in constant location and then after enabling develpoer mode in google chrome give path of the extension and enjoy!
+Here is a few steps to install extension:
+1- Download the extension project as a ZIP file.
+2- Unzip it to a constant location on your computer.
+3- Enable 'Developer Mode' in Google chrome.
+4- Load the extension by selecting the unzipped folder. Enjoy the enhanced Chat GPT experience!
 
 ## Usage
 Once installed, the extension automatically applies the RTL and text justification features on the Chat GPT interface at chat.openai.com. No additional configuration is required.
